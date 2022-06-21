@@ -1,5 +1,5 @@
 {
-  "name": "nps-proxy-server",
+  "name": "node-proxy-server",
   "version": "0.1.0",
   "main": "main.js",
   "license": "ISC",
